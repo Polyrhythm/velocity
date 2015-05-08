@@ -1,3 +1,5 @@
+if (typeof window === 'undefined') return;
+
 /*! VelocityJS.org (1.2.2). (C) 2014 Julian Shapiro. MIT @license: en.wikipedia.org/wiki/MIT_License */
 
 /*************************

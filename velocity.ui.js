@@ -1,3 +1,5 @@
+if (typeof window === 'undefined') return;
+
 /**********************
    Velocity UI Pack
 **********************/
